@@ -1,0 +1,1 @@
+Participamos de uma palestra online onde discutimos linguagens de programação, abordando temas como frontend, backend e desenvolvimento full stack. Tivemos a oportunidade de esclarecer dúvidas e expandir nossos conhecimentos na área, aprimorando nossa compreensão sobre o assunto.
